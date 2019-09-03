@@ -1,2 +1,2 @@
 # Digi-tomate
-Keyboard Emulation base on a AtTiny85
+Keyboard Emulation based on an AtTiny85
